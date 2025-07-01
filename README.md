@@ -8,7 +8,7 @@ Essa é uma aplicação dessa tabela em python que gera os números primos e tam
 
 ---
 
-#### [🔗 Link do vídeo da Tabela Prates dos Restos]()
+#### [🔗 Link do vídeo da Tabela Prates dos Restos](https://www.youtube.com/watch?v=9yZFy561lk8)
 
 ### Curiosidade
 
